@@ -1,5 +1,5 @@
 { 
-    "pizza-api": [
+    "pizza-api":
         {
             "pizzas": [
                 {
@@ -52,5 +52,4 @@
                 }
             ]
         }
-    ]
 }
